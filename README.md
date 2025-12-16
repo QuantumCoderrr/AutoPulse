@@ -79,7 +79,6 @@ AutoPulse AI bridges these gaps using a multi-agent orchestration layer:
 
 ## 📸 Screenshots / Prototype Video
 
-*(Add your video link or screenshots here)*
 * [https://autopulse-lq6sc7u3truuqgn6tt8szq.streamlit.app](#)
 
 ---
