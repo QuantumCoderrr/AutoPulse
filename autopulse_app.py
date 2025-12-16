@@ -53,7 +53,7 @@ with st.sidebar:
 # VIEW 1: VEHICLE OWNER (The Mobile App Experience)
 # ==========================================
 if user_role == "🚗 Vehicle Owner":
-    st.title("👋 Welcome, Sandip")
+    st.title("👋 Welcome")
     st.subheader("Vehicle Health Monitor: Tata Harrier (WB-02-AK-1234)")
     
     # Simulate Live Data
